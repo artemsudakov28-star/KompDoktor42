@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # После публикации замените URL ниже на фактический адрес GitHub Pages.
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
+Sitemap: https://artemsudakov28-star.github.io/KompDoktor42/sitemap.xml
